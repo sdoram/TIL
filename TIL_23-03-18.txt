@@ -1,0 +1,12 @@
+commit : 작성자, 시간, 내용, commit id를 담은 정보 id는 에러 발생시 push한 내용을 되돌릴 때 사용
+push : add(staging)한 commit을 올리는 작업
+pull : git에서 commit을 내 로컬repo에 받는 작업
+로컬repo : 내 컴퓨터를 기준으로 하는 개인 공간, 첫 commit전 git init하기
+원격repo : 원격 저장소를 마련해 데이터를 관리하는 협업의 중요 수단 
+clone : 원격repo에서 commit을 받아 로컬repo에 저장하는 과정 , 진행된 프로젝트는 clone후 참여
+history : 과거 commit내역을 보면서 변경사항과 프로젝트 진행사항 파악
+tracking : 로컬
+
+git 초보 사용법 : pull-> add -> push로 변경사항을 미리 로컬repo에 반영하고 add해 conflict 발생 방지하기
+
+
