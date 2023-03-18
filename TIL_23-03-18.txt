@@ -9,4 +9,13 @@ tracking : 로컬
 
 git 초보 사용법 : pull-> add -> push로 변경사항을 미리 로컬repo에 반영하고 add해 conflict 발생 방지하기
 
++ git commit -a <파일명> : add하고 바로 commit까지 지금 사용해보기
+git commit -a 실패
+한개라서 안되는지 파일 추가해서 복수 커밋 시도 실패  
+--add시 사용가능한 코드 같은게 출력되지만 이해하기 어려움
+
+협업에는 코드 컨벤션을 맞춰서 유의미한 변경사항만 표시해서 가독성 높이기 <-중요
+
+win + q/ git bash/ cd Desktop / 폴더 명 <- 최대한 마우스 작업 없이 처음부터 cd로 접근해보기
+
 
