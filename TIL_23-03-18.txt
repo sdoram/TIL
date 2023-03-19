@@ -21,3 +21,4 @@ win + q/ git bash/ cd Desktop / 폴더 명 <- 최대한 마우스 작업 없이 
 
 git commit -am "커밋이름"을 해주면 사용 가능하다는 내용이 있다. 바로 시험해보자
 
+일단 바로 push가 가능했는데 commit 메시지는 어떻게 쓰지?
